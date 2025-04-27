@@ -1,0 +1,8 @@
+# Core requirements
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+scikit-learn
+xgboost
